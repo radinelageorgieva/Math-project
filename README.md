@@ -19,5 +19,5 @@ This project explores the intersection of **Linear Algebra** and **Computer Grap
 ## How to use
 1. Clone the repository.
 2. Install dependencies: `pip install numpy matplotlib`.
-3. Open `transformations.ipynb` to see the analysis.
+3. Open `Linear transformations and 2D shape manipulation.ipynb` to see the analysis.
 
